@@ -1,0 +1,53 @@
+[
+  {
+    "id": "c5d2e8f1-1234-4567-8901-abcdef123456",
+    "title": "Kia K3 GT Line",
+    "description": "Sedán deportivo con motor turbo",
+    "code": "K3GT001",
+    "price": 98000000,
+    "status": true,
+    "stock": 50,
+    "category": "Vehiculos",
+    "thumbnails": [
+      "/images/k3gt-front.jpg",
+      "/images/k3gt-side.jpg"
+    ]
+  },
+  {
+    "id": "d7f4a9b2-2345-5678-9012-bcdef1234567",
+    "title": "Toyota RAV4 Hybrid XLE",
+    "description": "SUV híbrida familiar",
+    "code": "RAV4XLE001",
+    "price": 175000000,
+    "status": true,
+    "stock": 3,
+    "category": "Vehiculos",
+    "thumbnails": [
+      "/images/rav4-front.jpg"
+    ]
+  },
+  {
+    "id": "e9a6c1d3-3456-6789-0123-cdef12345678",
+    "title": "Tesla Model Y Long Range",
+    "description": "SUV eléctrica de largo alcance",
+    "code": "TESLAY001",
+    "price": 240000000,
+    "status": true,
+    "stock": 2,
+    "category": "Vehiculos",
+    "thumbnails": [
+      "/images/modely-front.jpg"
+    ]
+  },
+  {
+    "id": "20e38008-ff65-462b-8c6a-e543c3add713",
+    "title": "Renault Sandero",
+    "description": "Hastback",
+    "code": "RNLT_002_SNDR",
+    "price": 58000000,
+    "status": true,
+    "stock": 5,
+    "category": "Vehiculos",
+    "thumbnails": []
+  }
+]
