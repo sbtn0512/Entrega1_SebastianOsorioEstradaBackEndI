@@ -49,5 +49,47 @@
     "stock": 5,
     "category": "Vehiculos",
     "thumbnails": []
+  },
+  {
+    "id": "052b5ad5-325c-4b91-8393-c471242e9e18",
+    "title": "Chevrolet Captiva",
+    "description": "SUV",
+    "code": "RNLT_002_SNDR",
+    "price": 120000000,
+    "status": true,
+    "stock": 10,
+    "category": "Vehiculos",
+    "thumbnails": []
+  },
+  {
+    "id": "d0cb34d9-4002-444b-b0e4-5664a37e0e20",
+    "title": "Chevrolet Captiva",
+    "price": 120000000,
+    "status": true,
+    "stock": 10,
+    "category": "Vehiculos",
+    "thumbnails": []
+  },
+  {
+    "id": "e98ed860-f84f-4160-b1ba-87bc1162f48e",
+    "title": "prueba",
+    "description": "",
+    "code": "bb07d1c5-e61a-480b-89b8-295cde676630",
+    "price": 1234,
+    "status": true,
+    "stock": 10,
+    "category": "General",
+    "thumbnails": []
+  },
+  {
+    "id": "beeb8b73-279e-4cb9-8b96-0688390fa94d",
+    "title": "otra prueba",
+    "description": "",
+    "code": "dc2876ce-24fc-4e66-a539-064427dda6d5",
+    "price": 2313,
+    "status": true,
+    "stock": 10,
+    "category": "General",
+    "thumbnails": []
   }
 ]

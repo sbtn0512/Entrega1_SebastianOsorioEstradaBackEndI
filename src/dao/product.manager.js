@@ -54,13 +54,13 @@ export default class ProductManager {
     }
 
     async deleteProduct(id) {
-    const products = await this.getProducts();
-    const index = products.findIndex(product => product.id === id);
-    if (index === -1) {
-        return false;
-    }
-    products.splice(index, 1);
-    await fs.writeFile(this.path, JSON.stringify(products, null, 2));
-    return true;
+        const products = await this.getProducts();
+        const index = products.findIndex(product => product.id === id);
+        if (index === -1) {
+            return false;
+        }
+        products.splice(index, 1);
+        await fs.writeFile(this.path, JSON.stringify(products, null, 2));
+        return true;
     }
 }

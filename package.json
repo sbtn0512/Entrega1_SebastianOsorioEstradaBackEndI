@@ -22,6 +22,8 @@
   "homepage": "https://github.com/sbtn0512/Entrega1_SebastianOsorioEstradaBackEndI#readme",
   "dependencies": {
     "express": "^5.2.1",
+    "express-handlebars": "^9.0.1",
+    "socket.io": "^4.8.3",
     "uuid": "^14.0.0"
   }
 }
